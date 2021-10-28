@@ -32,6 +32,11 @@ export const Product = styled.div`
 
     p {
         font-weight: bold;
+
+        color: #5352ed
     }
 
+    button {
+        border-radius: 0px
+    }
 `;
